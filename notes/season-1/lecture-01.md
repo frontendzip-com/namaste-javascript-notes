@@ -14,4 +14,3 @@
   - Synchronous:- In a specific synchronous order.
   - Single-threaded:- One command at a time.
 
-<hr>
